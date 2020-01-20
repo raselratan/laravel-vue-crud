@@ -1,3 +1,16 @@
+<h2>Installation</h2>
+
+<ul>
+    <li>Clone the repo git clone https://github.com/raselratan/laravel-vue-crud.git</li>
+    <li>Run composer install</li>
+    <li>Save as the .env.example to .env and set your database information</li>
+    <li>Run php artisan key:generate to generate the app key</li>
+    <li>Run npm install</li>
+    <li>Run $ php artisan migrate</li>
+    <li>Done !!!</li>
+</ul>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
