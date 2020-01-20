@@ -1,0 +1,53 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import './admin';
+nav ul {
+    list-style-type: none;
+}
+
+li.nav-item {
+    list-style-type: none;
+}
+
+.dropdown-menu {
+    left: -68px;
+    margin: 0.43rem 0 0;
+}
+
+.custom-btn {
+    // border-radius: 10rem;
+    padding: 0.5rem 2.5rem;
+}
+
+// hide scroll bar
+.sidebar-content::-webkit-scrollbar {
+    background: rgb(121, 115, 115);
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(10, 10, 10);
+}
+
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.form-group.required .control-label:after {
+    content: "*";
+    color: red;
+}
+
+.abc {
+    background-color: #E9ECEF;
+    padding: 5px 15px;
+    margin-bottom: 0.3rem;
+    width: 100%;
+}
