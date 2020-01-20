@@ -10,6 +10,11 @@
     <li>Done !!!</li>
 </ul>
 
+<h2>About this Project</h2>
+<p>This is a laravel and vuejs project. Here, we use user registration, login authentication, different types of charts.</p>
+<p>After registering, You can login to your dashboard and from the left sidebar product menu, you can add product, delete product as well as update products.</p>
+
+<strong style="color:red">*** This is a simple CRUD application</strong>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
