@@ -26,7 +26,7 @@
     "dependencies": {
         "chart.js": "^2.9.3",
         "hchs-vue-charts": "^1.2.8",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "sweetalert2": "^8.18.3",
         "vform": "^1.0.1",
         "vue-progressbar": "^0.7.5",
